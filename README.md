@@ -7,5 +7,11 @@
 - 영상에 나와았는 회로 형태가 최종 제출 작품이였음(시간상 발주할 경우 기간내 제작이 불가능했음)
 
 
+## 회로 설계도
+![Circuit Design](./Whole_System_Design.png "회로설계도")
 
-![Circuit Design](./Whole_System_Design.png "회로도")
+## 회로 구현
+![Circuit](./Whole_System_Circuit.png "회로")
+
+## Test
+![Test](./Test.png "회로")
