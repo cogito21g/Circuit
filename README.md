@@ -8,4 +8,4 @@
 
 
 
-![Circuit Design](./ "이미지 설명(title)")
+![Circuit Design](./Whole_System_Design.png "회로도")
